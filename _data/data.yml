@@ -9,12 +9,12 @@ sidebar:
     # Profile information
     name: Pavel Shutov
     tagline: Unity Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: shutov.ps@gmail.com
     phone: # 012 345 6789
-    skype: pasha.shutov
+    skype: pFiTgBi2Ji7P # pasha.shutov
     website: # blog.webjeda.com #do not add http://
     linkedin: p-shutov
     github: ShutovPS
@@ -46,7 +46,8 @@ education:
     - degree: BSc in Software Engineering
       university: Belarusian State University of Informatics and Radioelectronics
       time: 2011 - 2016
-      details: Faculty of Computer Systems and Networks Software for Information Technologies.
+      details: |
+        Faculty of Computer Systems and Networks Software for Information Technologies.
 
 experiences:
     - role: Unity Developer
