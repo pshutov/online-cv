@@ -32,13 +32,17 @@
         
         {% if experience.projects %}
         <section class="section projects-section">
-            <!-- <h2 class="section-title">
-                <span class="fa-stack fa-xs">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
-                </span>
-                {{ experience.projects.title }}
-            </h2> -->
+
+            {% if experience.projects.title %}
+                <h6 class="section-title">
+                    <span class="fa-stack fa-xs">
+                        <i class="fas fa-circle fa-stack-2x"></i>
+                        <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+                    </span>
+                    {{ experience.projects.title }}
+                </h2>
+            <!--//section-title-->
+            {% endif %}
 
             {% if experience.projects.intro %}
             <div class="intro">
@@ -54,6 +58,7 @@
                     <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
                     {% else %} {{ project.title }} {% endif %}
                 </span>
+                <br />
                 {% if project.tagline %} 
                 - <span class="project-tagline">{{ project.tagline }}</span>
                 {% endif %}

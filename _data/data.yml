@@ -63,11 +63,11 @@ experiences:
       assignments:
         - title: Painter Master
           link: "https://apps.apple.com/app/id1510712623"
-          tagline: "HC painting game for mobile devices"
+          tagline: "Hyper-casual painting game for mobile devices"
 
         - title: Hit Tomato
           link: "https://apps.apple.com/app/id1232526187"
-          tagline: "HC 3D shooter for mobile devices"
+          tagline: "Hyper-casual 3D shooter for mobile devices"
       
   - role: Unity Developer
     time: 2019 - 2020 (1 year)
@@ -81,7 +81,7 @@ experiences:
           link: "https://apps.apple.com/app/id1510712623"
           tagline: "Wordsearch game for mobile devices"
 
-        - title: WordBakers - Word Search
+        - title: WordBakers
           link: "https://apps.apple.com/app/id1232526187"
           tagline: "Wordsearch game with upgrades system for mobile devices"
 
@@ -93,11 +93,11 @@ experiences:
       title: Projects
       # intro: |
       assignments:
-        - title: Polygon - Color by Number
+        - title: Polygon
           link: "https://apps.apple.com/app/id1411400127"
           tagline: "Coloring by numbers game for mobile devices"
 
-        - title: Recollect - Coloring Book
+        - title: Recollect
           link: "https://apps.apple.com/app/id1364842664"
           tagline: "Coloring by numbers game for mobile devices"
 
