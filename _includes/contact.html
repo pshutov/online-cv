@@ -73,9 +73,14 @@
     </li>
     {% endif %}
 
+    <!-- {% if sidebar.skype %}
+    <li class="skype"><i class="fab fa-skype"></i>
+      <a href="https://join.skype.com/invite/{{ sidebar.skype.invite }}" target="_blank">{ sidebar.skype.name }}</a>
+    </li>
+    {% endif %} -->
     {% if sidebar.skype %}
     <li class="skype"><i class="fab fa-skype"></i>
-      <a href="https://join.skype.com/invite/{{ sidebar.skype }}" target="_blank">Skype <!--{{ sidebar.skype }}--></a>
+      { sidebar.skype.name }}
     </li>
     {% endif %}
 

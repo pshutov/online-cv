@@ -3,114 +3,135 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Pavel Shutov
-    tagline: Unity Developer
-    avatar: avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Pavel Shutov
+  tagline: Unity Developer
+  avatar: avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: shutov.ps@gmail.com
-    phone: # 012 345 6789
-    skype: pFiTgBi2Ji7P # pasha.shutov
-    website: # blog.webjeda.com #do not add http://
-    linkedin: p-shutov
-    github: ShutovPS
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: # '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: shutov.ps@gmail.com
+  phone: # 012 345 6789
+  skype:
+      name: pasha.shutov
+  #     invite: 
 
-    languages:
-      - idiom: Russian
-        level: Native
+  website: # blog.webjeda.com #do not add http://
+  linkedin: p-shutov
+  github: ShutovPS
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: # '@webjeda'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
-      - idiom: English
-        level: Pre-Intermediate
+  languages:
+    - idiom: Russian
+      level: Native
 
-    # interests:
-    #   - item: Travaling
-    #     link:
+    - idiom: English
+      level: Pre-Intermediate
+
+  # interests:
+  #   - item: Travaling
+  #     link:
 
 career-profile:
-    title: About Me
-    summary: |
-      Technically​ ​proficient, ​analytical,​ ​and​ ​detail​ ​oriented​ ​with​ ​strong programming​ ​skills.​ ​Compatible​ ​team​ ​player​through​ ​complete​ ​project​ ​cycles.​ ​Excellent​ ​communication​ ​skills.​ ​Creative,​ ​responsible,​ ​purposeful,​ ​thoughtful,​ ​attentive,​ sociable,​ ​persistent​ ​in​ ​achieving targets,​ ​hardy,​ ​easy​ ​trained,​ ​open​ ​for​ ​innovations,​ ​ready​ ​to​ work​ ​in​ ​a​ ​team,​ ​interested​ ​in​ ​the​ ​current​ ​state​ ​of​ ​the​ ​IT​ ​industry,​ ​not​ ​afraid of​ ​difficulties.
+  title: About Me
+  summary: |
+    Technically​ ​proficient, ​analytical,​ ​and​ ​detail​ ​oriented​ ​with​ ​strong programming​ ​skills.​ ​Compatible​ ​team​ ​player ​through​ ​complete​ ​project​ ​cycles.​ ​Excellent​ ​communication​ ​skills.​ ​Creative,​ ​responsible,,​ ​thoughtful,​ ​attentive,​ sociable,​ ​persistent​ ​in​ ​achieving targets,​ ​hardy,​ ​easy​ ​trained,​ ​open​ ​for​ ​innovations,​ ​ready​ ​to​ work​ ​in​ ​a​ ​team,​ ​interested​ ​in​ ​the​ ​current​ ​state​ ​of​ ​the​ ​IT​ ​industry,​ ​not​ ​afraid of​ ​difficulties.
 
 education:
-    - degree: BSc in Software Engineering
-      university: Belarusian State University of Informatics and Radioelectronics
-      time: 2011 - 2016
-      details: |
-        Faculty of Computer Systems and Networks Software for Information Technologies.
+  - degree: BSc in Software Engineering
+    university: Belarusian State University of Informatics and Radioelectronics
+    time: 2011 - 2016
+    details: |
+      Faculty of Computer Systems and Networks Software for Information Technologies.
 
 experiences:
-    - role: Unity Developer
-      time: 2020 - Present
-      company: Skyrocket, Minsk Belarus
-      details: |
+  - role: Unity Developer
+    time: 2020 - Present
+    company: Skyrocket, Minsk Belarus
+    details: 
+    projects:
+      title: Projects
+      # intro: |
+      assignments:
+        - title: Painter Master
+          link: "https://apps.apple.com/app/id1510712623"
+          # tagline: "Game for mobile devices"
 
-    - role: Unity Developer
-      time: 2019 - 2020 (1 year)
-      company: Oazis Games, Minsk Belarus
-      details: |
+        - title: Hit Tomato
+          link: "https://apps.apple.com/app/id1232526187"
+          # tagline: "Game for mobile devices"
+      
+  - role: Unity Developer
+    time: 2019 - 2020 (1 year)
+    company: Oazis Games, Minsk Belarus
+    details: 
+    projects:
+      title: Projects
+      # intro: |
+      assignments:
+        - title: BWG
+          link: "https://apps.apple.com/app/id1510712623"
+          # tagline: "Game for mobile devices"
 
-    - role: Unity Developer
-      time: 2018 - 2019 (1 year 6 months)
-      company: Severex, Minsk Belarus
-      details: |
+        - title: WordBakers - Word Search
+          link: "https://apps.apple.com/app/id1232526187"
+          # tagline: "Game for mobile devices"
 
-    - role: Unity Developer
-      time: 2018 - 2018 (2 months)
-      company: VironIT, Minsk Belarus
-      details: |
+  - role: Unity Developer
+    time: 2018 - 2019 (1 year 6 months)
+    company: Severex, Minsk Belarus
+    details: 
+    projects:
+      title: Projects
+      # intro: |
+      assignments:
+        - title: Polygon - Color by Number
+          link: "https://apps.apple.com/app/id1411400127"
+          # tagline: "Game for mobile devices"
 
-    - role: Unity Developer
-      time: 2014 - 2016 (2 years 6 months)
-      company: 4iLab, Minsk Belarus
-      details: |
+        - title: Recollect - Coloring Book
+          link: "https://apps.apple.com/app/id1364842664"
+          # tagline: "Game for mobile devices"
 
-projects:
-    title: Projects
-    # intro: |
-    
-    assignments:
-      - title: BWG
-        link: "https://apps.apple.com/app/id1510712623"
-        tagline: "Game for mobile devices"
+  - role: Unity Developer
+    time: 2018 - 2018 (2 months)
+    company: VironIT, Minsk Belarus
+    details:
+    projects:
+      title: Projects
+      # intro: |
+      assignments:
+        - title: VERO Reality
+          link: "https://play.google.com/store/apps/details?id=com.vironit.vero_reality_android&hl=en&gl=US"
+          tagline: "​Application for mobile devices. Virtual apartment browser with VR-mode."
 
-      - title: WordBakers - Word Search
-        link: "https://apps.apple.com/app/id1232526187"
-        tagline: "Game for mobile devices"
+        # - title: Holosports (prototype)
+        #   link: "#"
+        #   tagline: "​Application for mobile devices. Observer of football matches in mixed reality."
 
-      - title: Polygon - Color by Number
-        link: "https://apps.apple.com/app/id1411400127"
-        tagline: "Game for mobile devices"
+  - role: Unity Developer
+    time: 2014 - 2016 (2 years 6 months)
+    company: 4iLab, Minsk Belarus
+    details:
+    projects:
+      title: Projects
+      # intro: |
+      assignments:
+        - title: Time of Dragons (Steam Version)
+          link: "https://store.steampowered.com/app/353130/Time_of_Dragons/"
+          # tagline: "Game for PC (Windows, Mac OS, Linux and SteamOS. Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
 
-      - title: Recollect - Coloring Book
-        link: "https://apps.apple.com/app/id1364842664"
-        tagline: "Game for mobile devices"
-
-      - title: VERO Reality
-        link: "https://play.google.com/store/apps/details?id=com.vironit.vero_reality_android&hl=en&gl=US"
-        tagline: "​Application for mobile devices. Virtual apartment browser with VR-mode."
-
-      - title: Holosports (prototype)
-        link: "#"
-        tagline: "​Application for mobile devices. Observer of football matches in mixed reality."
-
-      - title: Time of Dragons (Steam Version)
-        link: "https://store.steampowered.com/app/353130/Time_of_Dragons/"
-        tagline: "Game for PC (Windows, Mac OS, Linux and SteamOS. Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
-
-      - title: Time of Dragons (Web Version)
-        link: "https://www.facebook.com/timeofdragons3D/"
-        tagline: "Game for Web-browsers. Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
+        - title: Time of Dragons (Web Version)
+          link: "https://www.facebook.com/timeofdragons3D/"
+          # tagline: "Game for Web-browsers. Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
 
 # publications:
 #     title: Publications
