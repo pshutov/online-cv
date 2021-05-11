@@ -12,10 +12,14 @@
         <div class="meta">
             <div class="upper-row">
                 <h3 class="company">{{ experience.company }}</h3>
-                <div class="time">{{ experience.time }}</div>
+                {% if experience.time %}
+                    <div class="time">{{ experience.time }}</div>
+                {% endif %} 
+                {% if experience.role %}
+                    <div class="job-title">{{ experience.role }}</div>
+                {% endif %} 
             </div>
             <!--//upper-row-->
-            <div class="job-title">{{ experience.role }}</div>
         </div>
         <!--//meta-->
 
@@ -50,7 +54,8 @@
                     <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
                     {% else %} {{ project.title }} {% endif %}
                 </span>
-                {% if project.tagline %} - <span class="project-tagline">{{ project.tagline }}</span>
+                {% if project.tagline %} 
+                - <span class="project-tagline">{{ project.tagline }}</span>
                 {% endif %}
             </div>
             <!--//item-->
