@@ -63,11 +63,11 @@ experiences:
       assignments:
         - title: Painter Master
           link: "https://apps.apple.com/app/id1510712623"
-          # tagline: "Game for mobile devices"
+          tagline: "HC painting game for mobile devices"
 
         - title: Hit Tomato
           link: "https://apps.apple.com/app/id1232526187"
-          # tagline: "Game for mobile devices"
+          tagline: "HC 3D shooter for mobile devices"
       
   - role: Unity Developer
     time: 2019 - 2020 (1 year)
@@ -79,11 +79,11 @@ experiences:
       assignments:
         - title: BWG
           link: "https://apps.apple.com/app/id1510712623"
-          # tagline: "Game for mobile devices"
+          tagline: "Wordsearch game for mobile devices"
 
         - title: WordBakers - Word Search
           link: "https://apps.apple.com/app/id1232526187"
-          # tagline: "Game for mobile devices"
+          tagline: "Wordsearch game with upgrades system for mobile devices"
 
   - role: Unity Developer
     time: 2018 - 2019 (1 year 6 months)
@@ -95,11 +95,11 @@ experiences:
       assignments:
         - title: Polygon - Color by Number
           link: "https://apps.apple.com/app/id1411400127"
-          # tagline: "Game for mobile devices"
+          tagline: "Coloring by numbers game for mobile devices"
 
         - title: Recollect - Coloring Book
           link: "https://apps.apple.com/app/id1364842664"
-          # tagline: "Game for mobile devices"
+          tagline: "Coloring by numbers game for mobile devices"
 
   - role: Unity Developer
     time: 2018 - 2018 (2 months)
@@ -127,11 +127,11 @@ experiences:
       assignments:
         - title: Time of Dragons (Steam Version)
           link: "https://store.steampowered.com/app/353130/Time_of_Dragons/"
-          # tagline: "Game for PC (Windows, Mac OS, Linux and SteamOS. Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
+          tagline: "Game for PC (Windows, Mac OS, Linux and SteamOS. Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
 
         - title: Time of Dragons (Web Version)
           link: "https://www.facebook.com/timeofdragons3D/"
-          # tagline: "Game for Web-browsers. Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
+          tagline: "Game for Web-browsers. Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
 
 # publications:
 #     title: Publications
