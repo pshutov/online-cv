@@ -77,6 +77,10 @@ experiences:
       title: Projects
       # intro: |
       assignments:
+        - title: Numbers - Crazy Millions
+          link: "https://apps.apple.com/app/id1522040183"
+          tagline: "Math game (known as Numberama, Take Ten and other) for mobile devices"
+
         - title: BWG
           link: "https://apps.apple.com/app/id1510712623"
           tagline: "Wordsearch game for mobile devices"
