@@ -23,6 +23,8 @@
         </div>
         <!--//meta-->
 
+        <br />
+
         {% if experience.details %}
         <div class="details">
             {{ experience.details | markdownify }}
@@ -34,13 +36,13 @@
         <section class="section projects-section">
 
             {% if experience.projects.title %}
-                <h6 class="section-title">
-                    <span class="fa-stack fa-xs">
+                <h6 class="container-block-title">
+                    <!-- <span class="fa-stack fa-xs">
                         <i class="fas fa-circle fa-stack-2x"></i>
                         <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
-                    </span>
-                    {{ experience.projects.title }}
-                </h2>
+                    </span> -->
+                    {{ experience.projects.title }}:
+                </h6>
             <!--//section-title-->
             {% endif %}
 
