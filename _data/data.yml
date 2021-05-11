@@ -62,11 +62,11 @@ experiences:
       # intro: |
       assignments:
         - title: Painter Master
-          link: "https://apps.apple.com/app/id1510712623"
+          link: "https://apps.apple.com/app/id1562979268"
           tagline: "Hyper-casual painting game for mobile devices"
 
-        - title: Hit Tomato
-          link: "https://apps.apple.com/app/id1232526187"
+        - title: Hit Tomato 3D
+          link: "https://apps.apple.com/app/id1561595902"
           tagline: "Hyper-casual 3D shooter for mobile devices"
       
   - role: Unity Developer
