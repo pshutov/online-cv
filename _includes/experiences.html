@@ -56,10 +56,15 @@
             {% for project in experience.projects.assignments %}
             <div class="item">
                 <span class="project-title">
+                    {{ project.title }} 
+                    
                     {% if project.link %}
                         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-                    {% else %} 
-                        {{ project.title }} 
+                    {% else if project.links %} 
+                        {% for link in project.links %}
+                            {{ project.title }} 
+                            - <a href="{{ link.link }}" target="_blank"><i class="fab {{ link.icon }}"></i> {{ link.title }}</a>
+                        {% endfor %}
                     {% endif %}
                 </span>
                 <br />

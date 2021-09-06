@@ -14,13 +14,13 @@ sidebar:
   # Sidebar links
   email: shutov.ps@gmail.com
   phone: # 012 345 6789
-  skype:
-      name: pasha.shutov
-  #     invite: 
+  #skype:
+  #    name: pasha.shutov
+  #    invite: 
 
   website: # blog.webjeda.com #do not add http://
   linkedin: p-shutov
-  github: ShutovPS
+  github: pshutov
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -62,7 +62,16 @@ experiences:
       # intro: |
       assignments:
         - title: Painter Master
-          link: "https://apps.apple.com/app/id1562979268"
+          # link: "https://apps.apple.com/app/id1562979268"
+          links: 
+            - link: "https://apps.apple.com/app/id1562979268"
+              title: "AppStore"
+              platform: "iOS"
+              icon: "fa-apple"
+            - link: "https://play.google.com/store/apps/details?id=finish.drawing.relax"
+              title: "Google Play"
+              platform: "Android"
+              icon: "fa-android"
           tagline: "Hyper-casual painting game for mobile devices"
 
         - title: Hit Tomato 3D
@@ -159,5 +168,5 @@ experiences:
       # - name: C#
       #   level: 75%
 
-# footer: >
-#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
