@@ -62,8 +62,9 @@ experiences:
       # intro: |
       assignments:
         - title: Painter Master
+          tagline: "Hyper-casual painting game for mobile devices"
           # link: "https://apps.apple.com/app/id1562979268"
-          links: 
+          links:
             - link: "https://apps.apple.com/app/id1562979268"
               title: "AppStore"
               platform: "iOS"
@@ -72,11 +73,19 @@ experiences:
               title: "Google Play"
               platform: "Android"
               icon: "fa-android"
-          tagline: "Hyper-casual painting game for mobile devices"
 
         - title: Hit Tomato 3D
-          link: "https://apps.apple.com/app/id1561595902"
           tagline: "Hyper-casual 3D shooter for mobile devices"
+          # link: "https://apps.apple.com/app/id1561595902"
+          links:
+            - link: "https://apps.apple.com/app/id1561595902"
+              title: "AppStore"
+              platform: "iOS"
+              icon: "fa-apple"
+            - link: "https://play.google.com/store/apps/details?id=game.hit.tomato"
+              title: "Google Play"
+              platform: "Android"
+              icon: "fa-android"
       
   - role: Unity Developer
     time: 2019 - 2020 (1 year)
@@ -87,16 +96,39 @@ experiences:
       # intro: |
       assignments:
         - title: Numbers - Crazy Millions
-          link: "https://apps.apple.com/app/id1522040183"
           tagline: "Math game (known as Numberama, Take Ten and other) for mobile devices"
+          # link: "https://apps.apple.com/app/id1522040183"
+          links:
+            - link: "https://apps.apple.com/app/id1522040183"
+              title: "AppStore"
+              platform: "iOS"
+              icon: "fa-apple"
+            - link: "https://play.google.com/store/apps/details?id=com.oazis.crazymillion"
+              title: "Google Play"
+              platform: "Android"
+              icon: "fa-android"
 
         - title: BWG
-          link: "https://apps.apple.com/app/id1510712623"
           tagline: "Wordsearch game for mobile devices"
+          # link: "https://apps.apple.com/app/id1510712623"
+          links:
+            - link: "https://apps.apple.com/app/id1510712623"
+              title: "AppStore"
+              platform: "iOS"
+              icon: "fa-apple"
 
         - title: WordBakers
-          link: "https://apps.apple.com/app/id1232526187"
           tagline: "Wordsearch game with upgrades system for mobile devices"
+          # link: "https://apps.apple.com/app/id1232526187"
+          links: 
+            - link: "https://apps.apple.com/app/id1232526187"
+              title: "AppStore"
+              platform: "iOS"
+              icon: "fa-apple"
+            - link: "https://play.google.com/store/apps/details?id=com.oazis.wordbakers2"
+              title: "Google Play"
+              platform: "Android"
+              icon: "fa-android"
 
   - role: Unity Developer
     time: 2018 - 2019 (1 year 6 months)
@@ -107,12 +139,32 @@ experiences:
       # intro: |
       assignments:
         - title: Polygon
-          link: "https://apps.apple.com/app/id1411400127"
           tagline: "Coloring by numbers game for mobile devices"
+          # link: "https://apps.apple.com/app/id1411400127"
+          links:
+            - link: "https://apps.apple.com/app/id1411400127"
+              title: "AppStore"
+              platform: "iOS"
+              icon: "fa-apple"
+            - link: "https://play.google.com/store/apps/details?id=com.europosit.polygon2d.coloringpuzzle"
+              title: "Google Play"
+              platform: "Android"
+              icon: "fa-android"
+
 
         - title: Recollect
-          link: "https://apps.apple.com/app/id1364842664"
           tagline: "Coloring by numbers game for mobile devices"
+          # link: "https://apps.apple.com/app/id1364842664"
+          links:
+            - link: "https://apps.apple.com/app/id1364842664"
+              title: "AppStore"
+              platform: "iOS"
+              icon: "fa-apple"
+            - link: "https://play.google.com/store/apps/details?id=com.europosit.recollectgp.coloringbook"
+              title: "Google Play"
+              platform: "Android"
+              icon: "fa-android"
+
 
   - role: Unity Developer
     time: 2018 - 2018 (2 months)
@@ -123,8 +175,13 @@ experiences:
       # intro: |
       assignments:
         - title: VERO Reality
-          link: "https://play.google.com/store/apps/details?id=com.vironit.vero_reality_android&hl=en&gl=US"
           tagline: "​Application for mobile devices. Virtual apartment browser with VR-mode."
+          # link: "https://play.google.com/store/apps/details?id=com.vironit.vero_reality_android"
+          links:
+            - link: "https://play.google.com/store/apps/details?id=com.vironit.vero_reality_android"
+              title: "Google Play"
+              platform: "Android"
+              icon: "fa-android"
 
         # - title: Holosports (prototype)
         #   link: "#"
@@ -139,12 +196,22 @@ experiences:
       # intro: |
       assignments:
         - title: Time of Dragons (Steam Version)
-          link: "https://store.steampowered.com/app/353130/Time_of_Dragons/"
           tagline: "Game for PC (Windows, Mac OS, Linux and SteamOS. Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
+          # link: "https://store.steampowered.com/app/353130/Time_of_Dragons/"
+          links:
+            - link: "https://store.steampowered.com/app/353130/Time_of_Dragons"
+              title: "Steam"
+              platform: "PC"
+              icon: "fa-steam"
 
         - title: Time of Dragons (Web Version)
-          link: "https://www.facebook.com/timeofdragons3D/"
           tagline: "Game for Web-browsers. Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
+          # link: "https://www.facebook.com/timeofdragons3D/"
+          links:
+            - link: "https://www.facebook.com/timeofdragons3D"
+              title: "Facebook"
+              platform: "Web"
+              icon: "fa-facebook"
 
 # publications:
 #     title: Publications

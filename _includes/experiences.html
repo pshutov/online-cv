@@ -62,7 +62,7 @@
                         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
                     {% else if project.links %} 
                         {% for link in project.links %}
-                            {{ project.title }} 
+                            <br />
                             - <a href="{{ link.link }}" target="_blank"><i class="fab {{ link.icon }}"></i> {{ link.title }}</a>
                         {% endfor %}
                     {% endif %}
