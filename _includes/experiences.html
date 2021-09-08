@@ -63,11 +63,11 @@
                         {{ project.title }} 
                     {% endif %}
                 </span>
-
                 <br />
 
                 {% if project.tagline %} 
                     <span class="project-tagline">{{ project.tagline }}</span>
+                    <br />
                 <!--//tagline-->
                 {% endif %}
 
@@ -80,13 +80,11 @@
                     </span>
                 <!--//links-->
                 {% endif %}
-                
-                <br />
 
                 {% if project.details %}
-                    <div class="details">
+                    <span class="details">
                         {{ project.details | markdownify }}
-                    </div>
+                    </span>
                 <!--//details-->
                 {% endif %} 
             </div>
