@@ -56,20 +56,26 @@
             {% for project in experience.projects.assignments %}
             <div class="item">
                 <span class="project-title">
-                    {{ project.title }} 
-                    
                     {% if project.link %}
                         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-                    {% else if project.links %} 
-                        {% for link in project.links %}
-                            <br />
-                            - <a href="{{ link.link }}" target="_blank"><i class="fab {{ link.icon }}"></i> {{ link.title }}</a>
-                        {% endfor %}
+                        <br />
+                    {% else %}
+                        {{ project.title }} 
+                        <br />
+
+                        {% if project.links %}
+                            <span class="project-link">
+                                {% for link in project.links %}
+                                    <a href="{{ link.link }}" target="_blank"><i class="fab {{ link.icon }}"></i> {{ link.title }}</a>
+                                    <br />
+                                {% endfor %}
+                            </span>
+                        {% endif %}
                     {% endif %}
                 </span>
-                <br />
+
                 {% if project.tagline %} 
-                    - <span class="project-tagline">{{ project.tagline }}</span>
+                    <span class="project-tagline">{{ project.tagline }}</span>
                 {% endif %}
             </div>
             <!--//item-->

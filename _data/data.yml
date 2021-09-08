@@ -88,7 +88,7 @@ experiences:
               icon: "fa-android"
       
   - role: Unity Developer
-    time: 2019 - 2020 (1 year)
+    time: 2019 - 2020 # (1 year)
     company: Oazis Games, Minsk Belarus
     details: 
     projects:
@@ -131,7 +131,7 @@ experiences:
               icon: "fa-android"
 
   - role: Unity Developer
-    time: 2018 - 2019 (1 year 6 months)
+    time: 2018 - 2019 # (1 year 6 months)
     company: Severex, Minsk Belarus
     details: 
     projects:
@@ -167,7 +167,7 @@ experiences:
 
 
   - role: Unity Developer
-    time: 2018 - 2018 (2 months)
+    time: 2018 - 2018 # (2 months)
     company: VironIT, Minsk Belarus
     details:
     projects:
@@ -188,7 +188,7 @@ experiences:
         #   tagline: "​Application for mobile devices. Observer of football matches in mixed reality."
 
   - role: Unity Developer
-    time: 2014 - 2016 (2 years 6 months)
+    time: 2014 - 2016 # (2 years 6 months)
     company: 4iLab, Minsk Belarus
     details:
     projects:
