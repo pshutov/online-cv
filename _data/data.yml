@@ -232,7 +232,9 @@ experiences:
       # intro: |
       assignments:
         - title: Time of Dragons (Steam Version)
-          tagline: "Game for PC (Windows, Mac OS, Linux and SteamOS. Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
+          tagline: |
+            "Game for PC (Windows, Mac OS, Linux and SteamOS. 
+            Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
           details: |
             - functionality​ ​development;
             - ui development;
@@ -247,7 +249,9 @@ experiences:
               icon: "fa-steam"
 
         - title: Time of Dragons (Web Version)
-          tagline: "Game for Web-browsers. Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
+          tagline: |
+            "Game for Web-browsers. 
+            Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
           details: |
             - functionality​ ​development;
             - ui development;

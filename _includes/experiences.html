@@ -71,7 +71,7 @@
                 <!--//tagline-->
                 {% endif %}
 
-                {% if !project.link && project.links %}
+                {% if project.links %}
                     <span class="project-link">
                         {% for link in project.links %}
                             <a href="{{ link.link }}" target="_blank"><i class="fab {{ link.icon }}"></i> {{ link.title }}</a>
