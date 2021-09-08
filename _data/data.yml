@@ -106,7 +106,10 @@ experiences:
       assignments:
         - title: Numbers - Crazy Millions
           tagline: "Math game (known as Numberama, Take Ten and other) for mobile devices"
-          #details:
+          details: |
+            - functionality​ ​development;
+            - ui development;
+            - plugins integration.
           # link: "https://apps.apple.com/app/id1522040183"
           links:
             - link: "https://apps.apple.com/app/id1522040183"
@@ -207,7 +210,6 @@ experiences:
           tagline: "​Application for mobile devices. Virtual apartment browser with VR-mode."
           details: |
             - functionality​ ​development;
-            - ui development;
             - vr and ar ​development;
             - plugins integration.
           # link: "https://play.google.com/store/apps/details?id=com.vironit.vero_reality_android"

@@ -58,28 +58,30 @@
                 <span class="project-title">
                     {% if project.link %}
                         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-                        <br />
                     <!--//title-link-->
                     {% else %}
                         {{ project.title }} 
-                        <br />
-
-                        {% if project.links %}
-                            <span class="project-link">
-                                {% for link in project.links %}
-                                    <a href="{{ link.link }}" target="_blank"><i class="fab {{ link.icon }}"></i> {{ link.title }}</a>
-                                    <br />
-                                {% endfor %}
-                            </span>
-                        <!--//links-->
-                        {% endif %}
                     {% endif %}
                 </span>
+
+                <br />
 
                 {% if project.tagline %} 
                     <span class="project-tagline">{{ project.tagline }}</span>
                 <!--//tagline-->
                 {% endif %}
+
+                {% if !project.link && project.links %}
+                    <span class="project-link">
+                        {% for link in project.links %}
+                            <a href="{{ link.link }}" target="_blank"><i class="fab {{ link.icon }}"></i> {{ link.title }}</a>
+                            <br />
+                        {% endfor %}
+                    </span>
+                <!--//links-->
+                {% endif %}
+                
+                <br />
 
                 {% if project.details %}
                     <div class="details">
