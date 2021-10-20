@@ -198,30 +198,30 @@ experiences:
               icon: "fa-android"
 
 
-  - role: Unity Developer
-    time: 2018 - 2018 # (2 months)
-    company: VironIT, Minsk Belarus
-    details:
-    projects:
-      title: Projects
-      # intro: |
-      assignments:
-        - title: VERO Reality
-          tagline: "​Application for mobile devices. Virtual apartment browser with VR-mode."
-          details: |
-            - functionality​ ​development;
-            - vr and ar ​development;
-            - plugins integration.
-          # link: "https://play.google.com/store/apps/details?id=com.vironit.vero_reality_android"
-          links:
-            - link: "https://play.google.com/store/apps/details?id=com.vironit.vero_reality_android"
-              title: "Google Play"
-              platform: "Android"
-              icon: "fa-android"
+  # - role: Unity Developer
+  #   time: 2018 - 2018 # (2 months)
+  #   company: VironIT, Minsk Belarus
+  #   details:
+  #   projects:
+  #     title: Projects
+  #     # intro: |
+  #     assignments:
+  #       - title: VERO Reality
+  #         tagline: "​Application for mobile devices. Virtual apartment browser with VR-mode."
+  #         details: |
+  #           - functionality​ ​development;
+  #           - vr and ar ​development;
+  #           - plugins integration.
+  #         # link: "https://play.google.com/store/apps/details?id=com.vironit.vero_reality_android"
+  #         links:
+  #           - link: "https://play.google.com/store/apps/details?id=com.vironit.vero_reality_android"
+  #             title: "Google Play"
+  #             platform: "Android"
+  #             icon: "fa-android"
 
-        # - title: Holosports (prototype)
-        #   link: "#"
-        #   tagline: "​Application for mobile devices. Observer of football matches in mixed reality."
+  #       # - title: Holosports (prototype)
+  #       #   link: "#"
+  #       #   tagline: "​Application for mobile devices. Observer of football matches in mixed reality."
 
   - role: Unity Developer
     time: 2014 - 2016 # (2 years 6 months)
@@ -233,8 +233,8 @@ experiences:
       assignments:
         - title: Time of Dragons (Steam Version)
           tagline: |
-            "Game for PC (Windows, Mac OS, Linux and SteamOS. 
-            Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
+            Game for PC (Windows, Mac OS, Linux and SteamOS. 
+            Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders.
           details: |
             - functionality​ ​development;
             - ui development;
@@ -250,8 +250,8 @@ experiences:
 
         - title: Time of Dragons (Web Version)
           tagline: |
-            "Game for Web-browsers. 
-            Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders."
+            Game for Web-browsers. 
+            Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders.
           details: |
             - functionality​ ​development;
             - ui development;
@@ -264,6 +264,10 @@ experiences:
               title: "Facebook"
               platform: "Web"
               icon: "fa-facebook"
+            - link: "https://vk.com/games/timeofdragons3d"
+              title: "VK"
+              platform: "Web"
+              icon: "fa-vk"
 
 # publications:
 #     title: Publications
