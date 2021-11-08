@@ -59,7 +59,9 @@ experiences:
     details: 
     projects:
       title: Projects
-      # intro: |
+      intro: |
+        - development HC games for Android and iOS;
+        - mentoring junior and middle developers.
       assignments:
         - title: Painter Master
           tagline: "Hyper-casual painting game for mobile devices"
@@ -139,7 +141,8 @@ experiences:
     details: 
     projects:
       title: Projects
-      # intro: |
+      intro: |
+        - development games for Android and iOS (wordsearch, puzzles and casual).
       assignments:
         - title: Numbers - Crazy Millions
           tagline: "Math game (known as Numberama, Take Ten and other) for mobile devices"
@@ -194,7 +197,8 @@ experiences:
     details: 
     projects:
       title: Projects
-      # intro: |
+      intro: |
+        - development games for Android and iOS (coloring by numbers and puzzles).
       assignments:
         - title: Polygon
           tagline: "Coloring by numbers game for mobile devices"
@@ -264,7 +268,9 @@ experiences:
     details:
     projects:
       title: Projects
-      # intro: |
+      intro: |
+        - development online games for PC and Web (3d-shooters);
+        - development server-side for games.
       assignments:
         - title: Time of Dragons (Steam Version)
           tagline: |
