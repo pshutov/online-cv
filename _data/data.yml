@@ -56,12 +56,12 @@ experiences:
   - role: Unity Developer
     time: 2020 - 2021 (1 year)
     company: Skyrocket, Minsk Belarus
-    details: 
+    details:  |
+      - development HC games for Android and iOS;
+      - mentoring junior and middle developers.
     projects:
       title: Projects
-      intro: |
-        - development HC games for Android and iOS;
-        - mentoring junior and middle developers.
+      intro: 
       assignments:
         - title: Painter Master
           tagline: "Hyper-casual painting game for mobile devices"
@@ -138,11 +138,11 @@ experiences:
   - role: Unity Developer
     time: 2019 - 2020 (1 year)
     company: Oazis Games, Minsk Belarus
-    details: 
+    details: |
+      - development games for Android and iOS (wordsearch, puzzles and casual).
     projects:
       title: Projects
-      intro: |
-        - development games for Android and iOS (wordsearch, puzzles and casual).
+      intro: 
       assignments:
         - title: Numbers - Crazy Millions
           tagline: "Math game (known as Numberama, Take Ten and other) for mobile devices"
@@ -194,11 +194,11 @@ experiences:
   - role: Unity Developer
     time: 2018 - 2019 (1 year 6 months)
     company: Severex, Minsk Belarus
-    details: 
+    details: |
+      - development games for Android and iOS (coloring by numbers and puzzles).
     projects:
       title: Projects
-      intro: |
-        - development games for Android and iOS (coloring by numbers and puzzles).
+      intro:
       assignments:
         - title: Polygon
           tagline: "Coloring by numbers game for mobile devices"
@@ -265,12 +265,12 @@ experiences:
   - role: Unity Developer
     time: 2014 - 2016 (2 years 6 months)
     company: 4iLab, Minsk Belarus
-    details:
+    details: |
+      - development online games for PC and Web (3d-shooters);
+      - development server-side for games.
     projects:
       title: Projects
-      intro: |
-        - development online games for PC and Web (3d-shooters);
-        - development server-side for games.
+      intro:
       assignments:
         - title: Time of Dragons (Steam Version)
           tagline: |
