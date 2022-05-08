@@ -20,7 +20,7 @@ sidebar:
 
   website: bit.ly/pshutov_cv_gdocs #do not add http://
   linkedin: p-shutov
-  github: # pshutov
+  github: pshutov
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -43,7 +43,7 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    Technically​ ​proficient, ​analytical,​ ​and​ ​detail​ ​oriented​ ​with​ ​strong programming​ ​skills.​ ​Compatible​ ​team​ ​player ​through​ ​complete​ ​project​ ​cycles.​ ​Excellent​ ​communication​ ​skills.​ ​Creative,​ ​responsible,​ ​thoughtful,​ ​attentive,​ sociable,​ ​persistent​ ​in​ ​achieving targets,​ ​hardy,​ ​easy​ ​trained,​ ​open​ ​for​ ​innovations,​ ​ready​ ​to​ work​ ​in​ ​a​ ​team,​ ​interested​ ​in​ ​the​ ​current​ ​state​ ​of​ ​the​ ​IT​ ​industry,​ ​not​ ​afraid of​ ​difficulties.
+    Technically proficient, analytical, and detail oriented with strong programming skills. Compatible team player through complete project cycles. Excellent communication skills. Creative, responsible, thoughtful, attentive, sociable, persistent in achieving targets, hardy, easy trained, open for innovations, ready to work in a team, interested in the current state of the IT industry, not afraid of difficulties.
 
 education:
   - degree: BSc in Software Engineering
@@ -54,8 +54,49 @@ education:
 
 experiences:
   - role: Unity Developer
-    time: 2020 - 2021 (1 year)
-    company: Skyrocket, Minsk Belarus
+    time: 2022 #(half-year)
+    company: Gismart
+    details:  |
+      - development HC games for Android and iOS.
+    projects:
+      title: Projects
+      intro: 
+      assignments:
+        - title: Origami Rush
+          tagline: "Hyper-casual runner game for mobile devices"
+          details: |
+            - functionality development;
+            - ui development;
+            - development of utilities for artists and game designers.
+          # link: "https://apps.apple.com/app/id1596308496"
+          links:
+            - link: "https://apps.apple.com/app/id1596308496"
+              title: "AppStore"
+              platform: "iOS"
+              icon: "fa-apple"
+            - link: "https://play.google.com/store/apps/details?id=com.origami.runner"
+              title: "Google Play"
+              platform: "Android"
+              icon: "fa-android"
+        - title: Furry Race
+          tagline: "Hyper-casual runner game for mobile devices"
+          details: |
+            - functionality development;
+            - ui development.
+          # link: "https://apps.apple.com/app/id1589231729"
+          links:
+            - link: "https://apps.apple.com/app/id1589231729"
+              title: "AppStore"
+              platform: "iOS"
+              icon: "fa-apple"
+            - link: "https://play.google.com/store/apps/details?id=com.animal.mix"
+              title: "Google Play"
+              platform: "Android"
+              icon: "fa-android"
+
+  - role: Unity Developer
+    time: 2020 - 2021 #(1 year)
+    company: Skyrocket
     details:  |
       - development HC games for Android and iOS;
       - mentoring junior and middle developers.
@@ -66,9 +107,9 @@ experiences:
         - title: Painter Master
           tagline: "Hyper-casual painting game for mobile devices"
           details: |
-            - functionality​ ​development;
+            - functionality development;
             - ui development;
-            - ​development of utilities for artists and game designers;
+            - development of utilities for artists and game designers;
             - simple shaders development;
             - plugins integration.
           # link: "https://apps.apple.com/app/id1562979268"
@@ -85,7 +126,7 @@ experiences:
         - title: Hit Tomato 3D
           tagline: "Hyper-casual 3D shooter for mobile devices"
           details: |
-            - functionality​ ​development;
+            - functionality development;
             - ui development;
             - plugins integration.
           # link: "https://apps.apple.com/app/id1561595902"
@@ -102,7 +143,7 @@ experiences:
         - title: Gravity Biker
           tagline: "Hyper-casual 3D for mobile devices"
           details: |
-            - functionality​ ​development;
+            - functionality development;
             - ui development;
             - plugins integration.
           links:
@@ -114,7 +155,7 @@ experiences:
         - title: Shooting Ranch 3D
           tagline: "Hyper-casual 3D for mobile devices"
           details: |
-            - functionality​ ​development;
+            - functionality development;
             - ui development;
             - plugins integration.
           links:
@@ -126,7 +167,7 @@ experiences:
         - title: House Robber
           tagline: "Hyper-casual 3D for mobile devices"
           details: |
-            - functionality​ ​development;
+            - functionality development;
             - ui development;
             - plugins integration.
           links:
@@ -136,8 +177,8 @@ experiences:
               icon: "fa-android"
       
   - role: Unity Developer
-    time: 2019 - 2020 (1 year)
-    company: Oazis Games, Minsk Belarus
+    time: 2019 - 2020 #(1 year)
+    company: Oazis Games
     details: |
       - development games for Android and iOS (wordsearch, puzzles and casual).
     projects:
@@ -147,7 +188,7 @@ experiences:
         - title: Numbers - Crazy Millions
           tagline: "Math game (known as Numberama, Take Ten and other) for mobile devices"
           details: |
-            - functionality​ ​development;
+            - functionality development;
             - ui development;
             - plugins integration.
           # link: "https://apps.apple.com/app/id1522040183"
@@ -164,7 +205,7 @@ experiences:
         - title: WordBakers
           tagline: "Wordsearch game with upgrades system for mobile devices"
           details: |
-            - functionality​ ​development;
+            - functionality development;
             - ui development;
             - plugins integration.
           # link: "https://apps.apple.com/app/id1232526187"
@@ -181,7 +222,7 @@ experiences:
         - title: BWG
           tagline: "Wordsearch game for mobile devices"
           details: |
-            - functionality​ ​development;
+            - functionality development;
             - ui development;
             - plugins integration.
           # link: "https://apps.apple.com/app/id1510712623"
@@ -192,8 +233,8 @@ experiences:
               icon: "fa-apple"
 
   - role: Unity Developer
-    time: 2018 - 2019 (1 year 6 months)
-    company: Severex, Minsk Belarus
+    time: 2018 - 2019 #(1 year 6 months)
+    company: Severex
     details: |
       - development games for Android and iOS (coloring by numbers and puzzles).
     projects:
@@ -203,7 +244,7 @@ experiences:
         - title: Polygon
           tagline: "Coloring by numbers game for mobile devices"
           details: |
-            - functionality​ ​development;
+            - functionality development;
             - ui development;
             - plugins integration.
           # link: "https://apps.apple.com/app/id1411400127"
@@ -220,7 +261,7 @@ experiences:
         - title: Recollect
           tagline: "Coloring by numbers game for mobile devices"
           details: |
-            - functionality​ ​development;
+            - functionality development;
             - ui development;
             - shaders development;
             - external-tools development;
@@ -239,17 +280,17 @@ experiences:
 
   # - role: Unity Developer
   #   time: 2018 - 2018 # (2 months)
-  #   company: VironIT, Minsk Belarus
+  #   company: VironIT
   #   details:
   #   projects:
   #     title: Projects
   #     # intro: |
   #     assignments:
   #       - title: VERO Reality
-  #         tagline: "​Application for mobile devices. Virtual apartment browser with VR-mode."
+  #         tagline: "Application for mobile devices. Virtual apartment browser with VR-mode."
   #         details: |
-  #           - functionality​ ​development;
-  #           - vr and ar ​development;
+  #           - functionality development;
+  #           - vr and ar development;
   #           - plugins integration.
   #         # link: "https://play.google.com/store/apps/details?id=com.vironit.vero_reality_android"
   #         links:
@@ -260,11 +301,11 @@ experiences:
 
   #       # - title: Holosports (prototype)
   #       #   link: "#"
-  #       #   tagline: "​Application for mobile devices. Observer of football matches in mixed reality."
+  #       #   tagline: "Application for mobile devices. Observer of football matches in mixed reality."
 
   - role: Unity Developer
-    time: 2014 - 2016 (2 years 6 months)
-    company: 4iLab, Minsk Belarus
+    time: 2014 - 2016 #(2 years 6 months)
+    company: 4iLab
     details: |
       - development online games for PC and Web (3d-shooters);
       - development server-side for games.
@@ -277,7 +318,7 @@ experiences:
             Game for PC (Windows, Mac OS, Linux and SteamOS. 
             Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders.
           details: |
-            - functionality​ ​development;
+            - functionality development;
             - ui development;
             - server-side development;
             - database development;
@@ -294,7 +335,7 @@ experiences:
             Game for Web-browsers. 
             Various PvP modes of middle-scale battles, a set of detailed models of dragons and riders.
           details: |
-            - functionality​ ​development;
+            - functionality development;
             - ui development;
             - server-side development;
             - database development;
